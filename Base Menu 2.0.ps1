@@ -38,7 +38,7 @@ function Make-Menu {
     
     # You can add more, but this allow an initial
     # 6 options, a quit menu, and the option to 
-    # show the title.
+
     param (
         [string]$MenuTitle = $null,
         [string]$Option1 = $null,
